@@ -1,0 +1,110 @@
+[2021-12-07 14:19:27] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-12-07 14:19:27] local.ERROR: Uncaught TypeError: Argument 1 passed to Illuminate\Translation\FileLoader::loadNamespaceOverrides() must be of the type array, int given, called in C:\Users\sdemp\Desktop\eclass\vendor\laravel\framework\src\Illuminate\Translation\FileLoader.php on line 86 and defined in C:\Users\sdemp\Desktop\eclass\vendor\laravel\framework\src\Illuminate\Translation\FileLoader.php:101
+Stack trace:
+#0 C:\Users\sdemp\Desktop\eclass\vendor\laravel\framework\src\Illuminate\Translation\FileLoader.php(86): Illuminate\Translation\FileLoader->loadNamespaceOverrides(1, 'en', 'mailable', 'maileclipse')
+#1 C:\Users\sdemp\Desktop\eclass\vendor\laravel\framework\src\Illuminate\Translation\FileLoader.php(70): Illuminate\Translation\FileLoader->loadNamespaced('en', 'mailable', 'maileclipse')
+#2 C:\Users\sdemp\Desktop\eclass\vendor\laravel\framework\src\Illuminate\Translation\Translator.php(279): Illuminate\Translation\FileLoader->load('en', 'mailable', 'maileclipse')
+#3 C:\Users\sdemp\Desktop\eclass\vendor\laravel\framework\src\Illuminate {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught TypeError: Argument 1 passed to Illuminate\\Translation\\FileLoader::loadNamespaceOverrides() must be of the type array, int given, called in C:\\Users\\sdemp\\Desktop\\eclass\\vendor\\laravel\\framework\\src\\Illuminate\\Translation\\FileLoader.php on line 86 and defined in C:\\Users\\sdemp\\Desktop\\eclass\\vendor\\laravel\\framework\\src\\Illuminate\\Translation\\FileLoader.php:101
+Stack trace:
+#0 C:\\Users\\sdemp\\Desktop\\eclass\\vendor\\laravel\\framework\\src\\Illuminate\\Translation\\FileLoader.php(86): Illuminate\\Translation\\FileLoader->loadNamespaceOverrides(1, 'en', 'mailable', 'maileclipse')
+#1 C:\\Users\\sdemp\\Desktop\\eclass\\vendor\\laravel\\framework\\src\\Illuminate\\Translation\\FileLoader.php(70): Illuminate\\Translation\\FileLoader->loadNamespaced('en', 'mailable', 'maileclipse')
+#2 C:\\Users\\sdemp\\Desktop\\eclass\\vendor\\laravel\\framework\\src\\Illuminate\\Translation\\Translator.php(279): Illuminate\\Translation\\FileLoader->load('en', 'mailable', 'maileclipse')
+#3 C:\\Users\\sdemp\\Desktop\\eclass\\vendor\\laravel\\framework\\src\\Illuminate at C:\\Users\\sdemp\\Desktop\\eclass\\vendor\\laravel\\framework\\src\\Illuminate\\Translation\\FileLoader.php:101)
+[stacktrace]
+#0 {main}
+"} 
+[2021-12-07 14:20:04] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-12-07 14:21:04] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-12-07 14:22:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-12-07 14:23:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-12-07 14:24:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
