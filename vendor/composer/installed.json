@@ -16535,61 +16535,6 @@
             "install-path": "../tanmuhittin/laravel-google-translate"
         },
         {
-            "name": "tappayments/gosell",
-            "version": "v0.2",
-            "version_normalized": "0.2.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/Tap-Payments/gosell-sdk-php.git",
-                "reference": "d3537b1232050a17af39a1be547b45bae6f2b7b8"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/Tap-Payments/gosell-sdk-php/zipball/d3537b1232050a17af39a1be547b45bae6f2b7b8",
-                "reference": "d3537b1232050a17af39a1be547b45bae6f2b7b8",
-                "shasum": ""
-            },
-            "require": {
-                "guzzlehttp/guzzle": "^6.5",
-                "php": ">=5.6.0"
-            },
-            "require-dev": {
-                "php-coveralls/php-coveralls": "^2.2",
-                "phpunit/phpunit": "^5.7",
-                "squizlabs/php_codesniffer": "3.*"
-            },
-            "time": "2020-04-08T07:00:38+00:00",
-            "type": "library",
-            "installation-source": "dist",
-            "autoload": {
-                "psr-4": {
-                    "TapPayments\\": "src/"
-                },
-                "classmap": [
-                    "src/GoSell.php",
-                    "src/Customers.php",
-                    "src/Authorize.php",
-                    "src/Charges.php",
-                    "src/Refunds.php"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Waqas Tanoli",
-                    "email": "w.tanoli@tap.company"
-                }
-            ],
-            "support": {
-                "issues": "https://github.com/Tap-Payments/gosell-sdk-php/issues",
-                "source": "https://github.com/Tap-Payments/gosell-sdk-php/tree/v0.2"
-            },
-            "install-path": "../tappayments/gosell"
-        },
-        {
             "name": "theseer/tokenizer",
             "version": "1.2.1",
             "version_normalized": "1.2.1.0",

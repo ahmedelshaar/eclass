@@ -29,7 +29,6 @@ return array(
     'TijsVerkoyen\\CssToInlineStyles\\' => array($vendorDir . '/tijsverkoyen/css-to-inline-styles/src'),
     'Tightenco\\Collect\\' => array($vendorDir . '/tightenco/collect/src/Collect'),
     'Tests\\' => array($baseDir . '/tests'),
-    'TapPayments\\' => array($vendorDir . '/tappayments/gosell/src'),
     'Tanmuhittin\\LaravelGoogleTranslate\\' => array($vendorDir . '/tanmuhittin/laravel-google-translate/src'),
     'Symfony\\Polyfill\\Php81\\' => array($vendorDir . '/symfony/polyfill-php81'),
     'Symfony\\Polyfill\\Php80\\' => array($vendorDir . '/symfony/polyfill-php80'),
